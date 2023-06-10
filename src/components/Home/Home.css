@@ -1,0 +1,9 @@
+.profile-img {
+    border-radius: 40px;
+    width: 100%;
+    max-width: 70%;
+}
+
+#dark p {
+    color: aliceblue;
+}
